@@ -1,7 +1,4 @@
 # Add  code here
-#
-require 'benchmark'
-require 'pry'
 
 def prime(number)
   if number < 2
