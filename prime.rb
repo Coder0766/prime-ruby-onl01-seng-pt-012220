@@ -1,5 +1,5 @@
 # Add  code here
-# 
+#
 require 'benchmark'
 require 'pry'
 
@@ -23,6 +23,6 @@ end
 #       # binding.pry
 #      integer.each { |integer| integer % 2 == 0?  "prime" : "composite" }
 # end
-# 
-# 
+#
+#
 #   # i.each { |integer,number| n%i!=0 && i<=n/2 == false puts "prime"}
